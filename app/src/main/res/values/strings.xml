@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiAppCurso</string>
+    <string name="txtEncabezado">Bienvenido</string>
+    <string name="btn">Entrar</string>
+</resources>

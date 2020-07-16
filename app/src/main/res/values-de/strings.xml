@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeinApp-Kurs</string>
+    <string name="txtEncabezado">Willkommen</string>
+    <string name="btn">Betreten</string>
+</resources>
